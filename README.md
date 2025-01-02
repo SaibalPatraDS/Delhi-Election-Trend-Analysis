@@ -74,7 +74,9 @@ Prediction of Future Winner
 
 
 
-Title 2 : Predicting Political Leaning Using Machine Learning: Analysis of Tweets from BJP and INC  [https://github.com/SaibalPatraDS/Delhi-Election-Trend-Analysis/blob/main/tweets_detailed_analysis.zip]
+Title 2 : Predicting Political Leaning Using Machine Learning: Analysis of Tweets from BJP and INC  (Tweets Analysis)[https://github.com/SaibalPatraDS/Delhi-Election-Trend-Analysis/blob/main/tweets_detailed_analysis.zip]
+
+**Have to Zip the File due to large file size**
 
 Objective: Build an ML model to classify political leaning (BJP or INC) based on tweets.
 
