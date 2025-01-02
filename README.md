@@ -1,7 +1,7 @@
 # Delhi-Election-Trend-Analysis
 Delhi Election Trend Analysis with candidate.live
 
-Title: Predictive Analysis of Delhi Election Results (2025)
+Title: Predictive Analysis of Delhi Election Results (2025) [https://github.com/SaibalPatraDS/Delhi-Election-Trend-Analysis/blob/main/Delhi_Election_Trend_Analysis.ipynb]
 
 Approach : 
 
@@ -74,7 +74,7 @@ Prediction of Future Winner
 
 
 
-Title 2 : Predicting Political Leaning Using Machine Learning: Analysis of Tweets from BJP and INC
+Title 2 : Predicting Political Leaning Using Machine Learning: Analysis of Tweets from BJP and INC  [https://github.com/SaibalPatraDS/Delhi-Election-Trend-Analysis/blob/main/tweets_detailed_analysis.zip]
 
 Objective: Build an ML model to classify political leaning (BJP or INC) based on tweets.
 
