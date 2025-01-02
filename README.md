@@ -1,6 +1,8 @@
 # Delhi-Election-Trend-Analysis
 Delhi Election Trend Analysis with candidate.live
 
+Docs Link - [Doc File](https://docs.google.com/document/d/1skthWcxruBpAdYTyNbjEeTNio0PxGw_1qap4J1RGOlI/edit?tab=t.0)
+
 Title: Predictive Analysis of Delhi Election Results (2025) [Trend Analysis](https://github.com/SaibalPatraDS/Delhi-Election-Trend-Analysis/blob/main/Delhi_Election_Trend_Analysis.ipynb)
 
 Approach : 
